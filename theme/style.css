@@ -1,7 +1,8 @@
 html, body {
-    margin: 0;
-    border: 0;
-    font-size: 100%;
-    background-color: #F3E5F5;
-    color: #400d2d;
-  }
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  background-color: #dac6e89b;
+  color: #4c146a;
+  font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace; 
+}
