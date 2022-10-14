@@ -2,10 +2,10 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
+    font-family: "Lucida Console";
     background-color: #F3E5F5;
     color: #F3E5F5;
   }
-p{
-  color: rgb(45, 34, 55);
-  font-family: "Lucida Console"
+#entry-content {
+  color: #FFAB91;
 }
